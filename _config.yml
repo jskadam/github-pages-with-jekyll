@@ -1,10 +1,23 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: When stuck, hit the road. John Fante
+author: Jeevan Kadam
+email: jskadam.solutions@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Greetings people, greetings! Greetings and salutations! 
+  What a beuatiful day to start writing on the internet.(Yes I am channeling George Constanza)
+  
+  I will just write few lines about TV shows for now.
+  
+  The Wire and Seinfeld are my all time favourite TV Shows.
+  
+  Some of my favourite qoutes from these series:
+  
+  Jerry: Are you reading my VCR manual?
+  Kramer: Well, we can’t all be reading the classics, Professor Highbrow. Seinfeld
+  
+  Lestor Freamon: A life, Jimmy, you know what that is? 
+  It's the shit that happens when you're waiting for the things that never come. The Wire
+  
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
